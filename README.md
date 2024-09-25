@@ -42,7 +42,7 @@ In this project, Digital Signal Processing (DSP) techniques were employed to ext
 
 
  <p align="center">
-  <img src="figs\Feature extraction.png" alt="Picking peaks in DSP signals to extract features" title="Picking peaks in DSP signals to extract features" width="500" />
+  <img src="figs\Feature extraction.png" alt="Picking peaks in DSP signals as features" title="Picking peaks in DSP signals as features" width="500" />
 </p>
 
 
