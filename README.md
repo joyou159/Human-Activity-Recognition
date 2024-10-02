@@ -47,15 +47,9 @@ In this project, Digital Signal Processing (DSP) techniques were employed to ext
 
 
 
-# Significance of Human Activity Recognition
+# Model Development
 
-Monitoring human activities holds significant importance in various domains:
-
-- **Health and Well-being**: Accurate classification of activities contributes to health and fitness monitoring, enabling individuals to track and improve their physical activities.
-
-- **Assistive Technologies**: Recognition of activities is crucial for developing assistive technologies that cater to individuals with mobility challenges, fostering independence and accessibility.
-
-- **Research Insights**: Analyzing human activity patterns provides valuable insights for researchers studying behavior, habits, and the impact of daily activities on health.
+A Random Forest model was developed from scratch to classify the human activities based on the extracted features. The model leverages the ensemble learning technique, combining multiple decision trees to enhance accuracy and robustness in activity classification.
 
 # Acknowledgements
 
